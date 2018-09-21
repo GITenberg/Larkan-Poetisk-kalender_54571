@@ -1,5 +1,8 @@
 _repo: Larkan-Poetisk-kalender_54571
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54571-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47937'
     url: http://www.gutenberg.org/2009/agents/47937
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54571#Larkan-Poetisk-kalender
 gutenberg_issued: '2017-04-19'
 gutenberg_type: Text
 identifiers:
